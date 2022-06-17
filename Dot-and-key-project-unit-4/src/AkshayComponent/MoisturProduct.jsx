@@ -27,11 +27,11 @@ export const MoisturProduct=()=>{
 
                <div className={styles.details}>
                 <div className={styles.value}>
-                   <h2> {product.value1}</h2>
+                   <h2> {product.name1}</h2>
                 </div>
 
                 <div className={styles.value3}>
-                    <p>{product.value3}</p>
+                    <p>{product.name3}</p>
                 </div>
  
             <div className={styles.starBox}>

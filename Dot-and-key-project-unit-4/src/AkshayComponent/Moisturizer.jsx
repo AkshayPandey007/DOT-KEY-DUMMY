@@ -55,7 +55,7 @@ const Moisturizer =()=>{
            </div>
 
            <div className={styles.valueBox}>
-            {mois.value}
+            {mois.name}
            </div>
 
            <div className={styles.priceBox}>
